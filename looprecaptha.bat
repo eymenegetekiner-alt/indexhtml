@@ -1,4 +1,5 @@
 dir/s
+pause
 @echo off
 title LoopReCAPTCHA
 color 0A
