@@ -1,3 +1,4 @@
+dir/s
 @echo off
 title LoopReCAPTCHA
 color 0A
